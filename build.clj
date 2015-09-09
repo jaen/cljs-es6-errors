@@ -7,4 +7,5 @@
                              :optimizations :none
                              :verbose       true
                              :foreign-libs  [{:file        "libs/LetTest.js"
-                                              :provides    ["LetTest"]}]})
+                                              :provides    ["LetTest"]
+                                              :module-type :commonjs}]})

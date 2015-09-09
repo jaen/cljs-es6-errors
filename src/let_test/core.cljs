@@ -1,6 +1,6 @@
 (ns let-test.core
-  #_(:require [LetTest :as lt :refer [letTest]])
-  (:import LetTest))
+  (:require [LetTest :as lt :refer [letTest]])
+  #_(:import LetTest))
 
 (enable-console-print!)
 
